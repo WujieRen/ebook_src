@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "expandable-chapters-small",
+        "back-to-top-button",
+        "splitter",
+        "alerts",
+        "page-footer-ex"
+    ],
+    "pluginsConfig": {
+        "expandable-chapters-small":{},
+        "page-footer-ex": {
+            "copyright": "By <em>renwujie</em>",
+            "markdown": true,
+            "update_label": "<i>updated</i>",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
