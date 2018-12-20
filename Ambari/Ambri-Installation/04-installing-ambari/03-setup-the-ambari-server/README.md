@@ -34,8 +34,6 @@ ambari-server setup
    >
    > 您必须在运行设置程序以及进行数据库高级设置之前就准备好现有的数据库实例。
 
-<br/>
-
 > **[warning] 警告**
 >
 > 不支持Microsoft Sql Server 和 SQL Anywhere数据库。

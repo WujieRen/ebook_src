@@ -34,9 +34,9 @@ ambari-server setup
    >
    > 您必须在运行设置程序以及进行数据库高级设置之前就准备好现有的数据库实例。
 
-   > **[warning] 警告**
-   >
-   > 不支持**Microsoft Sql Server**和**SQL Anywhere**数据库。
+> **[warning] 警告**
+>
+> 不支持Microsoft Sql Server 和 SQL Anywhere数据库。
 
    - 如果要使用现有的Oracle数据库，以及您自己的数据库名，用户名和密码，输入`2`。
 
