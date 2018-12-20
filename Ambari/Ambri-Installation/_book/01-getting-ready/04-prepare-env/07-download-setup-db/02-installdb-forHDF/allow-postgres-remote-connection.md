@@ -8,14 +8,12 @@
 
 1. 打开文件并更新以下内容：
 
-   ```text
+   ```xml
    # "local" is for Unix domain socket connections only
    local all all trust
    
-   
    # IPv4 local connections:
    host all all 0.0.0.0/0 trust
-   
    
    # IPv6 local connections:
    host all all ::/0 trust
@@ -23,7 +21,7 @@
 
 2. 打开文件更新以下内容：
 
-   ```text
+   ```xml
    listen_addresses = '*'
    ```
 
